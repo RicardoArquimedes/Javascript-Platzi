@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Ricardo Arquimedes Castro <richardcqt28@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
