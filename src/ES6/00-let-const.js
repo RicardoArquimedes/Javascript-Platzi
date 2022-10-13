@@ -27,8 +27,11 @@ const fruits = () => {
     console.log(fruit1);
     console.log(fruit2);
     console.log(fruit12);
+
 }
 
 fruits();
 // Output  1 Apple 
 // Output2 ReferenceError: fruit2 is not defined
+
+const { error } = console; error('Hello linter');
