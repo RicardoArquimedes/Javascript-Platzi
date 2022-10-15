@@ -1,1 +1,1 @@
-# Platzi ECMAScript Course
+## Javascript Platzi 
