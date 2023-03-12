@@ -5,5 +5,5 @@ function greetingStudents(student){
 }
 
 for(var i = 0; i < students.length; i++){
-    console.log(students[i])
+    greetingStudents(students[i])
 }
