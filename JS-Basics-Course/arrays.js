@@ -14,3 +14,11 @@ var last = fruits.pop()
 console.log(fruits)
 
 console.log(fruits.length)
+
+var newLength = fruits.unshift("Pera")
+console.log(fruits)
+
+console.log(fruits.length)
+
+var position = fruits.indexOf("Platano")
+console.log(position)
