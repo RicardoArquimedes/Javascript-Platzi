@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="300" alt="JavaScript Logo">
+</p>
 # Basic JavaScript Course
 
 This repository contains the materials for a basic JavaScript course that teaches the fundamentals of the language, including basic functions, data types, variables, operators, scopes, hoisting, conditionals, loops, and array methods.
