@@ -20,4 +20,4 @@ Contributions to this repository are welcome! If you notice any errors or would 
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
